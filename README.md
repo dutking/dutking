@@ -8,7 +8,8 @@ Years of experience enriching Web with xAPI
 
 *   🌍  I'm based in Yerevan, Armenia
 *   ✉️  You can contact me at [dutking@gmail.com](mailto:dutking@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+*   🤝  I'm open to collaborating on interesting projects
+  #  Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
