@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitrii Utkin
 =====================================================================================================================================
 
-Web Developer, eLearning Developer
+ML Engineer
 ----------------------------------
 
 Years of experience enriching Web with xAPI
 
-*   🌍  I'm based in Alanya/ANTALYA, Turkey
+*   🌍  I'm based in Yerevan, Armenia
 *   ✉️  You can contact me at [dutking@gmail.com](mailto:dutking@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects### Skills 
 <p align="left">
