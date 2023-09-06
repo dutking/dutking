@@ -1,18 +1,15 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="left">Hi 👋, I'm Dmitrii Utkin</h1>
 <h3 align="left">Machine Learning Engineer</h3>
-- 🔭 I’m currently working on **speech recognition internship project**
-- 👯 I’m looking to collaborate on **interesting machine learning projects**
-- 🌱 I’m currently learning **speech recognition techniques**
-- 💬 Ask me about **Python**
-- 📫 How to reach me **dutking@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/dutking?tab=repositories**
-- 📄 Know about my experiences **https://www.linkedin.com/in/utkindmitrii/**
-- ⚡ Fun fact **I am Aquarius but can't swim**
-
+<ul style="list-style-type:none; padding-left:0">
+<li> 🔭 I’m currently working on speech recognition internship project </li>
+<li> 👯 I’m looking to collaborate on interesting machine learning projects</li>
+<li> 🌱 I’m currently learning speech recognition techniques</li>
+<li> 💬 Ask me about Python</li>
+<li> ⚡ Fun fact I am Aquarius but can't swim</li>
+</ul>
 <div> <a href="https://www.linkedin.com/in/utkindmitrii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dutking" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:dutking@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:dutking@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
