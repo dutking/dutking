@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dmitrii Utkin</h1>
 <h3 align="left">Machine Learning Engineer</h3>
 <ul style="list-style-type:none; padding-left:0">
-<li> 🔭 I’m currently working on speech recognition internship project </li>
+<li> 🔭 I’m currently working on medical images computer vision project</li>
 <li> 👯 I’m looking to collaborate on interesting machine learning projects</li>
-<li> 🌱 I’m currently learning speech recognition techniques</li>
+<li> 🌱 I’m currently learning bioinformatics</li>
 <li> 💬 Ask me about Python</li>
 <li> ⚡ Fun fact I am Aquarius but can't swim</li>
 </ul>
