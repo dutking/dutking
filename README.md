@@ -2,10 +2,9 @@
 <h3 align="left">Machine Learning Engineer</h3>
 <ul style="list-style-type:none; padding-left:0">
 <li> 🔭 I’m currently working on medical images computer vision project</li>
-<li> 👯 I’m looking to collaborate on interesting machine learning projects</li>
-<li> 🌱 I’m currently learning bioinformatics</li>
+<li> 👯 I’m looking to collaborate on interesting machine learning projects in healthcare</li>
+<li> 🌱 I’m currently learning bioinformatics and cancer genomics</li>
 <li> 💬 Ask me about Python</li>
-<li> ⚡ Fun fact I am Aquarius but can't swim</li>
 </ul>
 <div> <a href="https://www.linkedin.com/in/utkindmitrii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dutking" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
